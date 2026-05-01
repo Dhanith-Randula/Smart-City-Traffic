@@ -1,0 +1,5 @@
+report_date,sensor_id,junction_name,peak_hour_label,avg_vehicles_peak_hour,avg_speed_peak_hour_kmh,total_vehicles_day,critical_alerts_day,intervention_needed,recommendation
+2026-04-29,SENSOR-JA,Galle Face Junction,19:00 - 20:00,64.63,37.58,36579,28,YES,Deploy traffic police at peak hour
+2026-04-29,SENSOR-JB,Kollupitiya Junction,19:00 - 20:00,64.65,37.37,36594,28,YES,Deploy traffic police at peak hour
+2026-04-29,SENSOR-JC,Borella Junction,19:00 - 20:00,65.73,37.4,37203,24,YES,Deploy traffic police at peak hour
+2026-04-29,SENSOR-JD,Nugegoda Junction,19:00 - 20:00,67.63,36.65,38280,33,YES,Deploy traffic police at peak hour
