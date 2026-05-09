@@ -1,5 +1,5 @@
 # Smart City Traffic & Congestion System
-> Applied Big Data Engineering – Mini Project | Scenario 1
+
 
 ## Quick Start
 
